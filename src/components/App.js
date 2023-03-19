@@ -5,10 +5,10 @@ import './../styles/App.css';
 const App = () => {
   
 const itemList = [
-  { name: 'Apple', value: 20, budget: 10 },
-  { name: 'Banana', value: 5, budget: 10 },
-  { name: 'Papaya', value: 15, budget: 10 },
-  { name: 'Orange', value: 12, budget: 10 },
+  { name: 'Apple', value: 5, budget: 10 },
+  { name: 'Banana', value: 25, budget: 10 },
+  { name: 'Papaya', value: 50, budget: 100 },
+  { name: 'Orange', value: 60, budget: 55 },
 ];
 
 
